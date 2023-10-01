@@ -8,4 +8,5 @@ Abyss OS focuses on giving a full control over system to user.
 Only some very basic functionality is implemented.
 
 Archives with system will be put in releases with -alpha suffix.
+
 Default root password is Abyss0
